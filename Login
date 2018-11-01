@@ -1,0 +1,9 @@
+FileZilla
+
+服务器地址：123.207.159.21
+端口号：22
+类型：SFTP
+用户名：hls
+密码：hulisha
+
+地址：/usr/local/tomcat/webapps/hls
